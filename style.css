@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 60%;
+}
+
+.hire-me{
+    padding: 8px 8px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
